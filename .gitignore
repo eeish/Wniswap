@@ -13,3 +13,5 @@ lib/*
 
 # macos file
 .DS_Store
+
+*.swap
