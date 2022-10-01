@@ -106,7 +106,7 @@ contract WniswapRouter {
 
     function _swap(
         uint256[] memory amounts,
-        addresst[] memory path,
+        address[] memory path,
         address to_
     ) internal {
         for( uint256 i ; i < path.length -1; i++){
